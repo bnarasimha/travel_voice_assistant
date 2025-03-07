@@ -35,7 +35,7 @@ A voice-enabled conversational chatbot that acts as a Southern California travel
    DIGITALOCEAN_GENAI_ACCESS_TOKEN_TRAVEL=your_api_key_here
    ```
 4. For Kokoro + ONNX TTS
-Download the following files from their GitHub page:
+Download the following files from their GitHub page: [Kokoro](https://github.com/thewh1teagle/kokoro-onnx/blob/main/examples/app.py)
 
 - kokoro-v1.0.onnx
 - voices-v1.0.bin
@@ -48,6 +48,8 @@ brew install portaudio
 pip install pyaudio
 ```
 
+## Screenshot
+![Screenshot](images/image.png)
 ## Usage
 
 1. Run the application:
